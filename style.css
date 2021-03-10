@@ -10,3 +10,14 @@
   margin-bottom: 0;
   font-size: 24px;
 }
+
+footer {
+  background-color: #333;
+  color: #F4F4F4;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+footer address:last-child {
+  margin-bottom: 0;
+}
